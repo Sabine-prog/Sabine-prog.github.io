@@ -1,0 +1,96 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav a
+{
+    float: right;
+    margin: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    padding-bottom: 20px;
+    padding-right: 5px;
+    font-size: 13px;
+    color:  black;
+    text-decoration: none;
+}
+.nav a:hover
+{
+    text-decoration: underline 1px solid  black;
+}
+.nav .bouton1
+{
+    float: right;
+    margin: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-right: 5px;
+    background-color: blue;
+    color : white;
+}
+.nav .apps
+{
+    float: right;
+    margin: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-right: 5px;
+}
+.container
+{
+    padding-top: 150px;
+    padding-bottom: 360px;
+    text-align: center;
+}
+main button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+main img
+{
+    width: 20%;
+    height: 20%;
+}
+
+footer
+{
+/*    margin-top: 400px; */
+    background-color: rgba(131, 128, 128, 0.54);
+    font-size: 13px;
+    color:  black;
+    padding-bottom: 20px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+.foot_gen
+{
+    margin-right: 20px;
+}
+.foot_gen .footer1 a
+{
+    float: left;
+    margin-right: 20px;
+    color:  black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+.foot_gen .footer2 a, img
+{
+    float: center;
+    color:  black;
+    text-decoration: none;
+}
+
+.foot_gen .footer3 a
+{
+    float: right;
+    color:  black;
+    padding-right: 20px;
+    text-decoration: none;
+}
